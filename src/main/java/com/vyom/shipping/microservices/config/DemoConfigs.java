@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  * @author vyomr
  *
  */
-@ConfigurationProperties(prefix="demoConfigs")
+@ConfigurationProperties(prefix="demo-configs")
 @RefreshScope
 @Configuration
 public class DemoConfigs {
