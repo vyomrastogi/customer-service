@@ -29,3 +29,4 @@ management:
         - env
         - configprops
         - metrics
+        - refresh
